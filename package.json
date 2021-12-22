@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "something sus",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "test",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/Marc92020/electron-quick-start",
   "keywords": [
     "Electron",
     "quick",
@@ -14,7 +14,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "Marc92020",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^16.0.5"
